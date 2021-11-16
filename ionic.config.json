@@ -1,0 +1,7 @@
+{
+  "name": "externaldata-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
